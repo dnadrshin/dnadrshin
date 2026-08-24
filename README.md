@@ -18,4 +18,4 @@ that has to behave predictably inside both.
 - **AI in engineering organisations** — how a team of 10–20 developers ships
   software with AI: workflows, standards, review, metrics
 
-[LinkedIn](https://www.linkedin.com/in/dnadrshin/)
+[LinkedIn](https://www.linkedin.com/in/dmitriinadrshin/)
